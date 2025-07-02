@@ -1,4 +1,4 @@
-Ar=[1,2,5,8,9,10,11,15,16,19]
+Ar=[1,2,5,8,9,10,11,15,16,19] #can change to your will 
 print (Ar)
 def BS(find):
     L=0
